@@ -121,8 +121,8 @@ function sendSelectedOption(){
     // 配列の各要素にYouTube埋め込みプレーヤーを追加
     selectedVideoURL.forEach(function(videoURL) {
         let iframe = document.createElement('iframe');
-        iframe.width = '480';
-        iframe.height = '270';
+        iframe.width = '320';//480
+        iframe.height = '180';//270
         iframe.src = videoURL;
         iframe.frameBorder = '0';
         iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';

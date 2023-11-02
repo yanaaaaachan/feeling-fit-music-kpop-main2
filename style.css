@@ -27,8 +27,6 @@ body{
     font-family: 'Kiwi Maru', serif;
     color: white;
     font-size: 30px;
-    
-    white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
     
@@ -244,5 +242,14 @@ a {
     width: 80vw;
     margin: 0 auto;
     gap: 20px;
-    justify-content: space-between;
+    justify-content: space-around;
+}
+
+@media (max-width:400px) {
+    .title{
+        height: 100vh;
+    }
+    .recommend{
+        display: none;
+    }
 }
