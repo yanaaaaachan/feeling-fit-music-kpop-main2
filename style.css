@@ -235,6 +235,12 @@ a {
     font-weight: bold;
 }
 
+#submitButton{
+    height:30px;
+    width:100px;
+    background-color: #fff;
+}
+
 
 #videoContainer{
     display:flex;
