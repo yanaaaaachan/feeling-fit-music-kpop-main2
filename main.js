@@ -10,7 +10,7 @@ function binary_to_decimal(A) {
 contents = {
     0:["https://www.youtube.com/embed/XQmpVHUi-0A?si=ngNjYTytPsB86lIx", "https://www.youtube.com/embed/gdZLi9oWNZg?si=_pIsmmQnfj4RhB_2"],//00000
     1:["https://www.youtube.com/embed/Dab4EENTW5I?si=yPTjFt1k8PCxzmFC","https://www.youtube.com/embed/h7mZX8INIYI?si=-CUbAdk1ukIwAnlB"],//00001
-    2:["https://www.youtube.com/embed/9M7k9ZV67c0"],//00010
+    2:["https://www.youtube.com/embed/7C2z4GqqS5E?si=F4l2PDs-EkULwfEJ"],//00010
     3:["https://www.youtube.com/embed/JsOOis4bBFg?si=ONxWQVfJv3RjdRm8","https://www.youtube.com/embed/X-uJtV8ScYk?si=mL5e8L-HWlZZwz7v","https://www.youtube.com/embed/TQTlCHxyuu8?si=81gQU_lzjlGMVErr","https://www.youtube.com/embed/EaswWiwMVs8?si=ik-uLQnM9NgK4Lon","https://www.youtube.com/embed/BVwAVbKYYeM?si=Qtnz7xOEgHZeVADs","https://www.youtube.com/embed/gwMa6gpoE9I?si=DoFr94EG7Wy0ok50","https://www.youtube.com/embed/ALj5MKjy2BU?si=FMw99D4acJ0JCiFa"],//00011   
     4:["https://www.youtube.com/embed/dtV1I9WtQuo?si=qZRCHnDDDf-C7e5x","https://www.youtube.com/embed/VEZ_Ui6d9AM?si=kBOvPTzqv-9Nlmme","https://www.youtube.com/embed/zEkg4GBQumc?si=lErQvgI2l9iW1Fd4","https://www.youtube.com/embed/xe2r_KG2XdA?si=GXkHTpz__WvDp25k"],//00100
     5:["https://www.youtube.com/embed/x_oHzyRUvC0?si=EDrTtfHRMghrZRcd"],//00101
@@ -18,7 +18,7 @@ contents = {
     7:["https://www.youtube.com/embed/5rPluw_-Eb4?si=2SU7CvDnI6e9hHTb","https://www.youtube.com/embed/UWoyeuwj9c0?si=M9J8fLsec6hclvXf","https://www.youtube.com/embed/0lapF4DQPKQ?si=JztXKURvg8LxxNen","https://www.youtube.com/embed/-GQg25oP0S4?si=iejaByIGKK6_vu0l"],//00111
     8:["https://www.youtube.com/embed/n81ceM7rlaw?si=7cPq3AdekJ5B1FlA","https://www.youtube.com/embed/9IHwqdz8Xhw?si=SAvbSUnBFpYXhtLQ"],//01000
     9:["https://www.youtube.com/embed/UcGWYKHBDA4?si=eCzvnRrtXU5qI6pc","https://www.youtube.com/embed/pok5yDw77uM?si=t4kcCz8V20-yC7Wj","https://www.youtube.com/embed/Smgql_DESn8?si=oeT54P7z8rA65sKN","https://www.youtube.com/embed/LYJDf9oPQ-0?si=l_PrarRaUdpHODkR","https://www.youtube.com/embed/P131csq4P6Q?si=o70ls8SJhO0AK4bD"],//01001
-    10:["https://www.youtube.com/embed/NaKrke1EL1A"],//01010
+    10:["https://www.youtube.com/embed/NaKrke1EL1A?si=mo0JoDx-Zv3mHgsN"],//01010
     11:["https://www.youtube.com/embed/YLtEc-kvOqA?si=KrxE5zO_IGHOOBUO"],//01011
     12:["https://www.youtube.com/embed/S4qK-Gzyws0?si=Ik4MMGMZpw3M3d-w","https://www.youtube.com/embed/zFT3f9biz68?si=uXT9gzTbUH7j-Vg8","https://www.youtube.com/embed/-5q5mZbe3V8?si=2wdhxGGNeFtBYy2k"],//01100
     13:["https://www.youtube.com/embed/R9VDPMk5ls0?si=k-fdEqhucYMFFM2i"],//01101
